@@ -3,7 +3,7 @@ from pymongo import MongoClient
 
 # MongoDB connection details
 MONGO_URI = "mongodb://localhost:27017/"  # Replace with your MongoDB URI
-DB_NAME = "FC25_Chelsea_CM_Tracker"  # Name of your database
+DB_NAME = "FC25_Chelsea_CM_tracker"  # Name of your database
 COLLECTION_NAME = "youth_squad_players_season_1"  # Name of your collection
 
 # Create a MongoDB client
